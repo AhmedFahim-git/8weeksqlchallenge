@@ -2,7 +2,9 @@
 
 ## :ramen: Danny's Diner
 
-![Danny's diner](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Danny's diner" width="250"/>
+
+<!-- ![Danny's diner](images/case-study-1.png|width=200) -->
 
 This repository is for the 8weeksqlchallenge
 
